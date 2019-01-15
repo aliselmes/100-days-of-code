@@ -34,3 +34,12 @@
 **Thoughts**: Jon Duckett's book has provided the context about how JS fits in with HTML and CSS - I have a much better sense of how it all fits together to create an interactive, respnsive web page and am excited to continue reading. I think I have some catching up to do before going on to the next section in freeCodeCamp.
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+
+**Day 4: January 15, 2019**
+
+**Today's Progress**: Read chapter 2 of Jon Duckett's book (basic javascript instructions) and worked through most of the "regular expressions" section on freeCodeCamp JavaScript certification.
+
+**Thoughts**: The book continues to be clear and chapter 2 was a revision and clarification of basic JavaScript I had gone over in freeCodeCamp. Regular Expressions make sense - just about learning the vocab and snytax! 
+
+**Link to work**: https://www.freecodecamp.org/alisel
