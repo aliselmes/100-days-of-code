@@ -26,3 +26,11 @@
 **Thoughts**: I still don't understand 100% getters and setters but these will come up further down the line, again context and using them to build an application might help them make more sense. One day at a time! 
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+**Day 3: January 14, 2019**
+
+**Today's Progress**: Finished the ES6 section in freeCodeCamp's JavaScript certification. Sarter reading Jon Duckett's JavaSCript and JQuery book - finished chapter 1 plus exercise c01 using atom. 
+
+**Thoughts**: Jon Duckett's book has provided the context about how JS fits in with HTML and CSS - I have a much better sense of how it all fits together to create an interactive, respnsive web page and am excited to continue reading. I think I have some catching up to do before going on to the next section in freeCodeCamp.
+
+**Link to work**: https://www.freecodecamp.org/alisel
