@@ -43,3 +43,11 @@
 **Thoughts**: The book continues to be clear and chapter 2 was a revision and clarification of basic JavaScript I had gone over in freeCodeCamp. Regular Expressions make sense - just about learning the vocab and snytax! 
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+**Day 5: January 16, 2019**
+
+**Today's Progress**: Started chapter 3 of JavaScipt textbook, reading about functions, and completed the debugging section in freeCodeCamp's JavaScript certification.
+
+**Thoughts**: Re-reading about functions gives me more confidence that I know how to declare and write basic ones - looking froward to the book explaining more about methods and function expressions etc. Debugging seems quite common sense, always need to check spellings, brackets etc and use console.log to check variables as you go along!
+
+**Link to work**: https://www.freecodecamp.org/alisel
