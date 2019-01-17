@@ -51,3 +51,11 @@
 **Thoughts**: Re-reading about functions gives me more confidence that I know how to declare and write basic ones - looking froward to the book explaining more about methods and function expressions etc. Debugging seems quite common sense, always need to check spellings, brackets etc and use console.log to check variables as you go along!
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+**Day 6: January 17, 2019**
+
+**Today's Progress**: Read about Objects/Arrays in Chapter 3 of JavaScript textbook to refresh my memory then worked through the array lessons in the Basic Data Structures section of feecodecamp. 
+
+**Thoughts**: I am feeling quite comfortable using methods to modify arrays - looking forward to getting into the baisc algorithm scripting section on FCC to put these ideas into practice.
+
+**Link to work**: https://www.freecodecamp.org/alisel
