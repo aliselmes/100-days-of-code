@@ -59,3 +59,12 @@
 **Thoughts**: I am feeling quite comfortable using methods to modify arrays - looking forward to getting into the baisc algorithm scripting section on FCC to put these ideas into practice.
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+
+**Day 7: January 18, 2019**
+
+**Today's Progress**: Read about built-in objects in Chapter 3 of JavaScript textbook, finished the object lessons in the Basic Data Structures section of feecodecamp and started the Basic Algorithm Scripting section.
+
+**Thoughts**: I had been using built-in objects without realising that's what they were so good again to have some context provided by the textbook. the basic algorithm's are making sense though I still need some hints - trying to not be lazy and search around for an answer before going to the hint! Lots of methods i don't know about, maybe use lodash will help?
+
+**Link to work**: https://www.freecodecamp.org/alisel
