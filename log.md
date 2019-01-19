@@ -68,3 +68,12 @@
 **Thoughts**: I had been using built-in objects without realising that's what they were so good again to have some context provided by the textbook. the basic algorithm's are making sense though I still need some hints - trying to not be lazy and search around for an answer before going to the hint! Lots of methods i don't know about, maybe use lodash will help?
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+**Day 8: January 19, 2019**
+
+**Today's Progress**: Completed 3 of the Basic Algorithm Scripting challenges on freeCodeCamp.
+
+**Thoughts**: Slow going! Having to use Google a lot to get the solutions but discovering some useful built-in methods, some are a bit to complex for me right now so resorting to simple for loops / if statements makes it easier for me to follow the logic - need to think through the logic further before jumping to a hint!
+
+**Link to work**: https://www.freecodecamp.org/alisel
+
