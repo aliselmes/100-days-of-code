@@ -77,3 +77,11 @@
 
 **Link to work**: https://www.freecodecamp.org/alisel
 
+
+**Day 9: January 20, 2019**
+
+**Today's Progress**: Completed the Basic Algorithm Scripting challenges on freeCodeCamp!
+
+**Thoughts**: Getting used to Googling around to find answers, coming up with more of my own ways to do things even if they don't quite work, I'm nearly getting them. Learning about more useful methods and how to apply them. Still need more practice working through the logic of a function and thinking like a computer!
+
+**Link to work**: https://www.freecodecamp.org/alisel
