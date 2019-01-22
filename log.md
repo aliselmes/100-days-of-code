@@ -95,3 +95,11 @@
 
 **Link to work**: https://www.freecodecamp.org/alisel
 
+
+**Day 11: January 22, 2019**
+
+**Today's Progress**: Completed the Lodash Library project on CodeAcademy.
+
+**Thoughts**: Feels good to have finished a big codeacademy project - I got the gist of recreating each method of the lodash lobrary and was able to come up with a "game pan" on how to implement each one but still needed to goolge and research to tweak bits of my code so that it worked. I feel like I've reached the same stage on Code Academny and freeCodeCamp so need to decide which one to continue with first - maybe finish off the freeCodeCamp Javascript certificate before moving on?
+
+**Link to work**: https://www.codecademy.com/AliSel
