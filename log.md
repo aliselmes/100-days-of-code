@@ -85,3 +85,13 @@
 **Thoughts**: Getting used to Googling around to find answers, coming up with more of my own ways to do things even if they don't quite work, I'm nearly getting them. Learning about more useful methods and how to apply them. Still need more practice working through the logic of a function and thinking like a computer!
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+
+**Day 10: January 21, 2019**
+
+**Today's Progress**: Completed the Object Oriented Pragramming section on freeCodeCamp!
+
+**Thoughts**: I was pretty familiar with creating, accessing, and changing properties of objects but learning about inheritance, IIFE's, prototypes, mixins etc took some concentration. It did all make sense and I made extensive notes. Need a chance to see it all put together in a practical example now.
+
+**Link to work**: https://www.freecodecamp.org/alisel
+
