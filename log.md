@@ -103,3 +103,11 @@
 **Thoughts**: Feels good to have finished a big codeacademy project - I got the gist of recreating each method of the lodash lobrary and was able to come up with a "game pan" on how to implement each one but still needed to goolge and research to tweak bits of my code so that it worked. I feel like I've reached the same stage on Code Academny and freeCodeCamp so need to decide which one to continue with first - maybe finish off the freeCodeCamp Javascript certificate before moving on?
 
 **Link to work**: https://www.codecademy.com/AliSel
+
+**Day 12: January 23, 2019**
+
+**Today's Progress**: Worked through most of the functional programming section on freeCodeCamp
+
+**Thoughts**: The concepts of functional programming make sense - keep everything within your function and don't let it effect variables elsewhere in the code. It was cool to discover a lot of built-in methods to use which don't mutate code anywhere else. Still getting to grips with the syntax of them and not using the "long-winded" versions e.g. for loops i'd bene using previously.
+
+**Link to work**: https://www.freecodecamp.org/alisel
