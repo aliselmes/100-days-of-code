@@ -111,3 +111,12 @@
 **Thoughts**: The concepts of functional programming make sense - keep everything within your function and don't let it effect variables elsewhere in the code. It was cool to discover a lot of built-in methods to use which don't mutate code anywhere else. Still getting to grips with the syntax of them and not using the "long-winded" versions e.g. for loops i'd bene using previously.
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+
+**Day 13: January 24, 2019**
+
+**Today's Progress**: Finished fucntional programming section and started the Intermediate Algorithm Scripting section on freeCodecamp.
+
+**Thoughts**: Unluck day 13! Super frustrating day! I understand most of the concepts freeCodeCamp has taken me through but sturggle to apply them in the algorithm scripting challenges - reached the stage where I can understand and read a solution when I see it but sturggle to come up with the logic and write the solution myself! Gotta keep pushing on.
+
+**Link to work**: https://www.freecodecamp.org/alisel
