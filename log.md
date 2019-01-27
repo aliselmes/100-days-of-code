@@ -120,3 +120,15 @@
 **Thoughts**: Unluck day 13! Super frustrating day! I understand most of the concepts freeCodeCamp has taken me through but sturggle to apply them in the algorithm scripting challenges - reached the stage where I can understand and read a solution when I see it but sturggle to come up with the logic and write the solution myself! Gotta keep pushing on.
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+
+
+**Day 14: January 26, 2019**
+
+**Today's Progress**: Still working through intermediate algorithm scripting on freeCodeCamp - skipped a day due to working on the farm.
+
+**Thoughts**: Still heavily reliant on the hints to give me a clue about the logic - again I understand the solution code but struggle to implement it myself - the solutions also use lots of new methods i didn't know existed - so I guess always search for a method / function to do things for you!
+
+**Link to work**: https://www.freecodecamp.org/alisel
+
+
