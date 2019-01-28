@@ -132,3 +132,10 @@
 **Link to work**: https://www.freecodecamp.org/alisel
 
 
+**Day 15: January 27, 2019**
+
+**Today's Progress**: finished intermediate algorithm scripting on freeCodeCamp - worked through all but the final javascript projects!
+
+**Thoughts**: The projects were actually easier than I thought and I understoof what to do, just a case of looking up the correct methods etc to use. Worked for too long and got super frustrated with the Cash Register project....it is beyond my current ability to understand so going to leave it for now and come back to finish off the certification in a while...moving on to Codecademy to see how to put JavaScript, HTML and CSS all together!
+
+**Link to work**: https://www.freecodecamp.org/alisel
