@@ -139,3 +139,12 @@
 **Thoughts**: The projects were actually easier than I thought and I understoof what to do, just a case of looking up the correct methods etc to use. Worked for too long and got super frustrated with the Cash Register project....it is beyond my current ability to understand so going to leave it for now and come back to finish off the certification in a while...moving on to Codecademy to see how to put JavaScript, HTML and CSS all together!
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+
+**Day 16: January 28, 2019**
+
+**Today's Progress**: re-read about loops and decisions in the JavaScript textbook, went back throuhg the DOM lesson on Codecademy and got most of the wasy through the DOM Event lesson and Piano Keys project.
+
+**Thoughts**: Feeling more comfortable adding JavaScipt to a HTML/CSS webpage now - the DOM/DOM Events make sense. Would be good to practice using it "for real" in my own project - possibly with the JavaScript I wrote for the freeCodeCamp projects, e.g. the roman numeral coverter and turn this into a webpage...
+
+**Link to work**: https://www.codecademy.com/AliSel
