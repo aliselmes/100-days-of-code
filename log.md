@@ -148,3 +148,12 @@
 **Thoughts**: Feeling more comfortable adding JavaScipt to a HTML/CSS webpage now - the DOM/DOM Events make sense. Would be good to practice using it "for real" in my own project - possibly with the JavaScript I wrote for the freeCodeCamp projects, e.g. the roman numeral coverter and turn this into a webpage...
 
 **Link to work**: https://www.codecademy.com/AliSel
+
+
+**Day 17: January 29, 2019**
+
+**Today's Progress**: Finished the Piano keyr project and completed the Handlebars lessons and project on Codecademy.
+
+**Thoughts**: Handlebars made sense and seems easy to implement if I have a model to follow. Nice to be able to use templating to cut down on writing everything out in HTML! Also getting more confortable using JavaSCript with HMTL and CSS in a full web page.
+
+**Link to work**: https://www.codecademy.com/AliSel
