@@ -157,3 +157,12 @@
 **Thoughts**: Handlebars made sense and seems easy to implement if I have a model to follow. Nice to be able to use templating to cut down on writing everything out in HTML! Also getting more confortable using JavaSCript with HMTL and CSS in a full web page.
 
 **Link to work**: https://www.codecademy.com/AliSel
+
+
+**Day 18: January 30, 2019**
+
+**Today's Progress**: Got through half of the "Intro to jQuery" section on Codecademy - effects and event handlers.
+
+**Thoughts**: Loving jQuery! so easy to make web pages responsive and it all makes sense! starting to see you don't need loads of complicated JavaScript to make a fully interactive webpage and this gives me hope! 
+
+**Link to work**: https://www.codecademy.com/AliSel
