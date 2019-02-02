@@ -166,3 +166,12 @@
 **Thoughts**: Loving jQuery! so easy to make web pages responsive and it all makes sense! starting to see you don't need loads of complicated JavaScript to make a fully interactive webpage and this gives me hope! 
 
 **Link to work**: https://www.codecademy.com/AliSel
+
+
+**Day 19: Feb 1, 2019**
+
+**Today's Progress**: Finished "Intro to jQuery" section on Codecademy - Style methods and traversing the DOM.
+
+**Thoughts**: Still really like jQuery as a succinct colution to making a page dynamic, need a bit more practice using the .children(), .siblings() etc methods to traverse the DOM - hopefully the freeCodeCamp section will cover these and I can use it as revision.
+
+**Link to work**: https://www.codecademy.com/AliSel
