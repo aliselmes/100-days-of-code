@@ -184,3 +184,12 @@
 **Thoughts**: I thought through the logic on paper and with searching around the internet managed to complete the first half - the next step is the tricky bit - making the Cash Register give the correct change. More research needed!
 
 **Link to work**: https://www.freecodecamp.org/alisel
+
+
+**Day 21: Feb 5, 2019**
+
+**Today's Progress**: back to Codecademy to work through the intermediate JavaScript section - completed the lessons and 1 project.
+
+**Thoughts**: classes, costructor functions, getters/setters, inheritance are all making more sense now I have gone back over them - finding the projects coming naturally with taking some pause tot hink it through.
+
+**Link to work**: https://www.codecademy.com/AliSel
