@@ -175,3 +175,12 @@
 **Thoughts**: Still really like jQuery as a succinct colution to making a page dynamic, need a bit more practice using the .children(), .siblings() etc methods to traverse the DOM - hopefully the freeCodeCamp section will cover these and I can use it as revision.
 
 **Link to work**: https://www.codecademy.com/AliSel
+
+
+**Day 20: Feb 2, 2019**
+
+**Today's Progress**: Wen't back to work on the Cash Register project on freeCodeCamp.
+
+**Thoughts**: I thought through the logic on paper and with searching around the internet managed to complete the first half - the next step is the tricky bit - making the Cash Register give the correct change. More research needed!
+
+**Link to work**: https://www.freecodecamp.org/alisel
