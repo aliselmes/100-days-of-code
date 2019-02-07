@@ -193,3 +193,12 @@
 **Thoughts**: classes, costructor functions, getters/setters, inheritance are all making more sense now I have gone back over them - finding the projects coming naturally with taking some pause tot hink it through.
 
 **Link to work**: https://www.codecademy.com/AliSel
+
+
+**Day 22: Feb 6, 2019**
+
+**Today's Progress**: Finished the second project and quiz in the JavaSCript Classes section on codecademy.
+
+**Thoughts**: I was able to whizz through the scond project and quiz - this section has been good revision and has definitely deepened my understanding of classes/getters and setters etc.
+
+**Link to work**: https://www.codecademy.com/AliSel
