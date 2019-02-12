@@ -211,3 +211,14 @@
 **Thoughts**: Modules make sense - exporting and importing and why you do it - need to use this in "real life" now.
 
 **Link to work**: https://www.codecademy.com/AliSel
+
+
+**Day 24 & 25: Feb 11-12, 2019**
+
+**Today's Progress**: Completed the JavaSCript Modules projects and quiz, started the debugging section.
+
+**Thoughts**: The projects were good practice using modules - feeling comfortable with them now. Debugging make senses, it's helpful to have a workflow and steps to follow.
+
+**Link to work**: https://www.codecademy.com/AliSel
+
+
