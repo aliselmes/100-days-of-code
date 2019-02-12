@@ -202,3 +202,12 @@
 **Thoughts**: I was able to whizz through the scond project and quiz - this section has been good revision and has definitely deepened my understanding of classes/getters and setters etc.
 
 **Link to work**: https://www.codecademy.com/AliSel
+
+
+**Day 23: Feb 10, 2019**
+
+**Today's Progress**: Completed the JavaSCript Modules lesson in Codecademy.
+
+**Thoughts**: Modules make sense - exporting and importing and why you do it - need to use this in "real life" now.
+
+**Link to work**: https://www.codecademy.com/AliSel
