@@ -222,3 +222,10 @@
 **Link to work**: https://www.codecademy.com/AliSel
 
 
+**Day 26 & 27: Feb 21 and March 11, 2019**
+
+**Today's Progress**: Completed the JavaSCript Promises and Requests I section on Codecademy.
+
+**Thoughts**: With starting a new job coding has taken a back seat but now things have settled down I will try to code everyday!
+
+**Link to work**: https://www.codecademy.com/AliSel
